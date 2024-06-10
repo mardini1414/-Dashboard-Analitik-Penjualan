@@ -1,0 +1,606 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "Product A",
+      "date": "2023-01-01",
+      "sales": 150,
+      "revenue": 3000
+    },
+    {
+      "id": 2,
+      "product": "Product B",
+      "date": "2023-01-02",
+      "sales": 100,
+      "revenue": 2000
+    },
+    {
+      "id": 3,
+      "product": "Product C",
+      "date": "2024-01-03",
+      "sales": 172,
+      "revenue": 3440
+    },
+    {
+      "id": 4,
+      "product": "Product D",
+      "date": "2024-01-14",
+      "sales": 147,
+      "revenue": 2940
+    },
+    {
+      "id": 5,
+      "product": "Product E",
+      "date": "2024-01-21",
+      "sales": 187,
+      "revenue": 3740
+    },
+    {
+      "id": 6,
+      "product": "Product F",
+      "date": "2024-01-26",
+      "sales": 83,
+      "revenue": 1660
+    },
+    {
+      "id": 7,
+      "product": "Product G",
+      "date": "2024-01-30",
+      "sales": 94,
+      "revenue": 1880
+    },
+    {
+      "id": 8,
+      "product": "Product H",
+      "date": "2024-01-24",
+      "sales": 122,
+      "revenue": 2440
+    },
+    {
+      "id": 9,
+      "product": "Product I",
+      "date": "2024-01-05",
+      "sales": 168,
+      "revenue": 3360
+    },
+    {
+      "id": 10,
+      "product": "Product J",
+      "date": "2024-01-16",
+      "sales": 108,
+      "revenue": 2160
+    },
+    {
+      "id": 11,
+      "product": "Product K",
+      "date": "2024-01-15",
+      "sales": 180,
+      "revenue": 3600
+    },
+    {
+      "id": 12,
+      "product": "Product L",
+      "date": "2024-01-25",
+      "sales": 177,
+      "revenue": 3540
+    },
+    {
+      "id": 13,
+      "product": "Product M",
+      "date": "2024-01-10",
+      "sales": 160,
+      "revenue": 3200
+    },
+    {
+      "id": 14,
+      "product": "Product N",
+      "date": "2024-01-14",
+      "sales": 89,
+      "revenue": 1780
+    },
+    {
+      "id": 15,
+      "product": "Product O",
+      "date": "2024-01-24",
+      "sales": 80,
+      "revenue": 1600
+    },
+    {
+      "id": 16,
+      "product": "Product P",
+      "date": "2024-01-28",
+      "sales": 177,
+      "revenue": 3540
+    },
+    {
+      "id": 17,
+      "product": "Product Q",
+      "date": "2024-01-06",
+      "sales": 121,
+      "revenue": 2420
+    },
+    {
+      "id": 18,
+      "product": "Product R",
+      "date": "2024-01-12",
+      "sales": 114,
+      "revenue": 2280
+    },
+    {
+      "id": 19,
+      "product": "Product S",
+      "date": "2024-01-01",
+      "sales": 165,
+      "revenue": 3300
+    },
+    {
+      "id": 20,
+      "product": "Product T",
+      "date": "2024-01-26",
+      "sales": 134,
+      "revenue": 2680
+    },
+    {
+      "id": 21,
+      "product": "Product U",
+      "date": "2024-01-19",
+      "sales": 76,
+      "revenue": 1520
+    },
+    {
+      "id": 22,
+      "product": "Product V",
+      "date": "2024-01-14",
+      "sales": 164,
+      "revenue": 3280
+    },
+    {
+      "id": 23,
+      "product": "Product W",
+      "date": "2024-01-24",
+      "sales": 86,
+      "revenue": 1720
+    },
+    {
+      "id": 24,
+      "product": "Product X",
+      "date": "2024-01-25",
+      "sales": 181,
+      "revenue": 3620
+    },
+    {
+      "id": 25,
+      "product": "Product Y",
+      "date": "2024-01-29",
+      "sales": 128,
+      "revenue": 2560
+    },
+    {
+      "id": 26,
+      "product": "Product Z",
+      "date": "2024-01-24",
+      "sales": 159,
+      "revenue": 3180
+    },
+    {
+      "id": 27,
+      "product": "Product B",
+      "date": "2025-06-23",
+      "sales": 178,
+      "revenue": 3560
+    },
+    {
+      "id": 28,
+      "product": "Product E",
+      "date": "2028-02-11",
+      "sales": 145,
+      "revenue": 2900
+    },
+    {
+      "id": 29,
+      "product": "Product H",
+      "date": "2030-09-09",
+      "sales": 67,
+      "revenue": 1340
+    },
+    {
+      "id": 30,
+      "product": "Product D",
+      "date": "2029-11-18",
+      "sales": 184,
+      "revenue": 3680
+    },
+    {
+      "id": 31,
+      "product": "Product G",
+      "date": "2025-12-12",
+      "sales": 152,
+      "revenue": 3040
+    },
+    {
+      "id": 32,
+      "product": "Product I",
+      "date": "2027-01-05",
+      "sales": 140,
+      "revenue": 2800
+    },
+    {
+      "id": 33,
+      "product": "Product C",
+      "date": "2026-03-30",
+      "sales": 58,
+      "revenue": 1160
+    },
+    {
+      "id": 34,
+      "product": "Product K",
+      "date": "2025-10-15",
+      "sales": 156,
+      "revenue": 3120
+    },
+    {
+      "id": 35,
+      "product": "Product J",
+      "date": "2023-11-11",
+      "sales": 121,
+      "revenue": 2420
+    },
+    {
+      "id": 36,
+      "product": "Product F",
+      "date": "2026-08-25",
+      "sales": 132,
+      "revenue": 2640
+    },
+    {
+      "id": 37,
+      "product": "Product P",
+      "date": "2031-04-20",
+      "sales": 85,
+      "revenue": 1700
+    },
+    {
+      "id": 38,
+      "product": "Product R",
+      "date": "2033-07-13",
+      "sales": 113,
+      "revenue": 2260
+    },
+    {
+      "id": 39,
+      "product": "Product M",
+      "date": "2028-02-24",
+      "sales": 137,
+      "revenue": 2740
+    },
+    {
+      "id": 40,
+      "product": "Product Q",
+      "date": "2026-06-21",
+      "sales": 125,
+      "revenue": 2500
+    },
+    {
+      "id": 41,
+      "product": "Product U",
+      "date": "2029-07-31",
+      "sales": 66,
+      "revenue": 1320
+    },
+    {
+      "id": 42,
+      "product": "Product X",
+      "date": "2027-05-18",
+      "sales": 177,
+      "revenue": 3540
+    },
+    {
+      "id": 43,
+      "product": "Product V",
+      "date": "2030-08-20",
+      "sales": 148,
+      "revenue": 2960
+    },
+    {
+      "id": 44,
+      "product": "Product N",
+      "date": "2024-05-06",
+      "sales": 79,
+      "revenue": 1580
+    },
+    {
+      "id": 45,
+      "product": "Product O",
+      "date": "2023-03-13",
+      "sales": 185,
+      "revenue": 3700
+    },
+    {
+      "id": 46,
+      "product": "Product S",
+      "date": "2024-10-29",
+      "sales": 109,
+      "revenue": 2180
+    },
+    {
+      "id": 47,
+      "product": "Product Z",
+      "date": "2032-02-25",
+      "sales": 186,
+      "revenue": 3720
+    },
+    {
+      "id": 48,
+      "product": "Product T",
+      "date": "2029-12-07",
+      "sales": 165,
+      "revenue": 3300
+    },
+    {
+      "id": 49,
+      "product": "Product W",
+      "date": "2025-04-08",
+      "sales": 106,
+      "revenue": 2120
+    },
+    {
+      "id": 50,
+      "product": "Product L",
+      "date": "2026-07-04",
+      "sales": 144,
+      "revenue": 2880
+    },
+    {
+      "id": 51,
+      "product": "Product Y",
+      "date": "2027-09-14",
+      "sales": 175,
+      "revenue": 3500
+    },
+    {
+      "id": 52,
+      "product": "Product B",
+      "date": "2033-01-19",
+      "sales": 189,
+      "revenue": 3780
+    },
+    {
+      "id": 53,
+      "product": "Product E",
+      "date": "2028-05-22",
+      "sales": 102,
+      "revenue": 2040
+    },
+    {
+      "id": 54,
+      "product": "Product G",
+      "date": "2034-12-28",
+      "sales": 121,
+      "revenue": 2420
+    },
+    {
+      "id": 55,
+      "product": "Product C",
+      "date": "2024-03-02",
+      "sales": 147,
+      "revenue": 2940
+    },
+    {
+      "id": 56,
+      "product": "Product I",
+      "date": "2025-08-11",
+      "sales": 150,
+      "revenue": 3000
+    },
+    {
+      "id": 57,
+      "product": "Product F",
+      "date": "2029-11-19",
+      "sales": 104,
+      "revenue": 2080
+    },
+    {
+      "id": 58,
+      "product": "Product K",
+      "date": "2031-02-22",
+      "sales": 81,
+      "revenue": 1620
+    },
+    {
+      "id": 59,
+      "product": "Product M",
+      "date": "2024-12-04",
+      "sales": 146,
+      "revenue": 2920
+    },
+    {
+      "id": 60,
+      "product": "Product Q",
+      "date": "2032-09-13",
+      "sales": 71,
+      "revenue": 1420
+    },
+    {
+      "id": 61,
+      "product": "Product R",
+      "date": "2025-11-30",
+      "sales": 90,
+      "revenue": 1800
+    },
+    {
+      "id": 62,
+      "product": "Product N",
+      "date": "2027-06-04",
+      "sales": 134,
+      "revenue": 2680
+    },
+    {
+      "id": 63,
+      "product": "Product U",
+      "date": "2025-02-02",
+      "sales": 135,
+      "revenue": 2700
+    },
+    {
+      "id": 64,
+      "product": "Product X",
+      "date": "2026-11-29",
+      "sales": 89,
+      "revenue": 1780
+    },
+    {
+      "id": 65,
+      "product": "Product V",
+      "date": "2024-02-06",
+      "sales": 170,
+      "revenue": 3400
+    },
+    {
+      "id": 66,
+      "product": "Product P",
+      "date": "2026-09-27",
+      "sales": 151,
+      "revenue": 3020
+    },
+    {
+      "id": 67,
+      "product": "Product S",
+      "date": "2029-10-02",
+      "sales": 191,
+      "revenue": 3820
+    },
+    {
+      "id": 68,
+      "product": "Product Z",
+      "date": "2028-06-06",
+      "sales": 162,
+      "revenue": 3240
+    },
+    {
+      "id": 69,
+      "product": "Product T",
+      "date": "2033-05-15",
+      "sales": 111,
+      "revenue": 2220
+    },
+    {
+      "id": 70,
+      "product": "Product Y",
+      "date": "2034-07-12",
+      "sales": 85,
+      "revenue": 1700
+    },
+    {
+      "id": 71,
+      "product": "Product W",
+      "date": "2024-08-26",
+      "sales": 123,
+      "revenue": 2460
+    },
+    {
+      "id": 72,
+      "product": "Product D",
+      "date": "2029-02-09",
+      "sales": 127,
+      "revenue": 2540
+    },
+    {
+      "id": 73,
+      "product": "Product L",
+      "date": "2023-07-14",
+      "sales": 186,
+      "revenue": 3720
+    },
+    {
+      "id": 74,
+      "product": "Product B",
+      "date": "2027-11-07",
+      "sales": 140,
+      "revenue": 2800
+    },
+    {
+      "id": 75,
+      "product": "Product G",
+      "date": "2028-03-29",
+      "sales": 83,
+      "revenue": 1660
+    },
+    {
+      "id": 76,
+      "product": "Product E",
+      "date": "2023-05-18",
+      "sales": 144,
+      "revenue": 2880
+    },
+    {
+      "id": 77,
+      "product": "Product J",
+      "date": "2028-01-01",
+      "sales": 112,
+      "revenue": 2240
+    },
+    {
+      "id": 78,
+      "product": "Product C",
+      "date": "2024-02-23",
+      "sales": 166,
+      "revenue": 3320
+    },
+    {
+      "id": 79,
+      "product": "Product I",
+      "date": "2026-04-26",
+      "sales": 143,
+      "revenue": 2860
+    },
+    {
+      "id": 80,
+      "product": "Product F",
+      "date": "2025-03-14",
+      "sales": 153,
+      "revenue": 3060
+    },
+    {
+      "id": 81,
+      "product": "Product K",
+      "date": "2023-10-18",
+      "sales": 61,
+      "revenue": 1220
+    },
+    {
+      "id": 82,
+      "product": "Product M",
+      "date": "2026-05-05",
+      "sales": 60,
+      "revenue": 1200
+    },
+    {
+      "id": 83,
+      "product": "Product Q",
+      "date": "2030-03-03",
+      "sales": 68,
+      "revenue": 1360
+    },
+    {
+      "id": 84,
+      "product": "Product R",
+      "date": "2024-06-28",
+      "sales": 125,
+      "revenue": 2500
+    },
+    {
+      "id": 85,
+      "product": "Product N",
+      "date": "2027-02-21",
+      "sales": 99,
+      "revenue": 1980
+    },
+    {
+      "id": 86,
+      "product": "Product U",
+      "date": "2028-04-24",
+      "sales": 153,
+      "revenue": 3060
+    }
+  ]
+}
